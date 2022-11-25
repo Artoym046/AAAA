@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\bin\Debug\net6.0\Zadacha_58.exe
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\bin\Debug\net6.0\Zadacha_58.deps.json
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\bin\Debug\net6.0\Zadacha_58.runtimeconfig.json
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\bin\Debug\net6.0\Zadacha_58.dll
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\bin\Debug\net6.0\Zadacha_58.pdb
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.dll
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\refint\Zadacha_58.dll
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.pdb
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\Zadacha_58.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Origin\AAAA\Zadacha_58\obj\Debug\net6.0\ref\Zadacha_58.dll
